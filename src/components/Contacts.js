@@ -8,10 +8,10 @@ const [listContacts] = useState([
     value: '+84123XXX'
   },{
     title: 'Email',
-    value: 'hohoang.dev@gmail.com'
+    value: 'mycyberbase@gmail.com'
   },{
     title: 'Instagram',
-    value: '@lundev.web'
+    value: '@mycyberbase.com'
   }
 ])
 const divs = useRef([]);
